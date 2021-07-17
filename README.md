@@ -1,2 +1,1 @@
-# french-learning-me
-My French learning tools and strategy
+# Personal French Learning Tools and Strategy
