@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="basic.css" rel="stylesheet">
+    <title>Multisearch French for Language Learning</title>
+</head>
+
+<body>
+    <main>
+        <h1>Multisearch French Words</h1>
+        <p>This site will search it in Google Translate, Forvo, Linguee, and Wikitionary</p>
+        <input type="text" id="searchInputId" autofocus placeholder="Multisearch here">
+    </main>
+    <script>
+        var searchInput = document.getElementById("searchInputId");
+        searchInput.addEventListener("keyup", function (event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                var searchQuery = encodeURIComponent(document.getElementById("searchInputId").value);
+                window.open("http://translate.google.com/translate?hl=en&sl=fr&tl=en&u=http%3A%2F%2Fwww.google.fr%2Fsearch%3Fq%3D" + searchQuery + "%26num%3D10%26hl%3Dfr%26site%3Dimghp%26tbm%3Disch%26sout%3D1%26biw%3D1242%26bih%3D640");
+                window.open("http://fr.forvo.com/word/" + searchQuery + "/#fr");
+                window.open("http://www.linguee.com/english-french/search?source=french&query=" + searchQuery);
+                window.open("http://translate.google.com/translate?sl=fr&tl=en&prev=_t&hl=en&ie=UTF-8&eotf=1&u=http://fr.wiktionary.org/wiki/" + searchQuery + "&act=url");
+                document.getElementById("searchInputId").value = "";
+            }
+        });
+    </script>
+</body>
+
+</html>
