@@ -1,8 +1,8 @@
-# Cercle de conversation Français-Anglais Questions / Conversation circle English-French
+## Cercle de conversation Français-Anglais Questions / Conversation circle English-French
 
 Questions par [Centre francophone de Toronto](https://centrefranco.org/en/)
 
-## Les Langues
+### Les Langues
 
 1. Combien de langues parlez-vous ?
 2. Quelles langues parlez-vous ?
@@ -28,7 +28,7 @@ Questions par [Centre francophone de Toronto](https://centrefranco.org/en/)
 22. Connaissez—vous une langue ancienne comme le grec ou le latin ?
 23. Vous est-il déjà arrivé de ne pas comprendre quand on vous parle dans la même langue (accent, argot , etc.)?
 
-## Languages
+### Languages
 
 1. How many languages do you speak ?
 2. What are the languages that you speak ?
@@ -54,7 +54,7 @@ Questions par [Centre francophone de Toronto](https://centrefranco.org/en/)
 22. Do you know an ancient language like Greek or Latin ?
 23. Have you ever been in a situation where you did not understand someone who spoke the same language as you ? (accent, expressions, jargon etc )
 
-## Mes projets et mes rêves
+### Mes projets et mes rêves
 
 1. Avez-vous fait des résolutions cette année?
 2. Quels sont les projets qui vous tiennent à cœur en ce moment?
@@ -83,7 +83,7 @@ Connaissez vous d'autre exemples « folkloriques » ou « culturels » qui aiden
 réaliser les rêves?
 21. Quel sont vos projets ou vos rêves pour le Cercle de conversation?
 
-## My Projects, My Dreams
+### My Projects, My Dreams
 
 1. Did you make any resolutions this year?
 2. What are the projects that are important to you right now?
@@ -106,3 +106,7 @@ réaliser les rêves?
 19. According to you, what are the advantages and disadvantages of proceeding this way?
 20. In popular North-American culture,they say that making a wish as you blowout birthday candles makes it come true. What other 'folkloric or cultural" ways can you think of making dreams come true?
 21. What are your projects or your dreams for the Cercle de conversation?
+
+## See Also
+
+[36 questions français et anglais](https://gist.github.com/justintungonline/f9a9e087b3d22288c47ea53124c125a0)
