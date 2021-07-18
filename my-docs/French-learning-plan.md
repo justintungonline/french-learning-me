@@ -82,13 +82,13 @@ Process goals
 
 - Weekly
   - Media
-    - Livres comme Pelletier, Yves, and Pascal Girard. Valentin. La Pastèque, 2017. 
+    - Livres comme Pelletier, Yves, and Pascal Girard. Valentin. La Pastèque, 2017.
   - News
   - Games
   - [Duolingo podcasts](https://podcast.duolingo.com/)
 - Quarterly+:
-  - Toronto Public Library: 
-    - [Cantook Station Jeunesse](https://tpl.cantookstation.com/  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
+  - Toronto Public Library:
+    - [Cantook Station Jeunesse](<https://tpl.cantookstation.com/>  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
     - [TD Summer Reading Club](https://www.tdsummerreadingclub.ca/)  Canada's biggest, bilingual summer reading program for kids of   all ages, interests, and abilities.
 
 ### Listening
@@ -100,6 +100,8 @@ Process goals
 
 - Monthly:
   - French learning journal
+  - Language writing and correction, [Lang-8](https://lang-8.com/)
+    - Make up stories, have them corrected and flashcards for mistakes
 
 ### Speaking
 
@@ -109,10 +111,12 @@ Process goals
 - Quarterly+:
   - Volunteering: Sport games, CSG 2021
   - Immersion: local church, restaurant, bakery
+  - Conversation partners - [italki](https://www.alllanguageresources.com/recommends/italki/)
+  - [Speechling](https://speechling.com/) from [All Language Resources-French](https://www.alllanguageresources.com/french/)
 
 ### All Above Areas
 
-- Weekly: 
+- Weekly:
   - **Practice**(2 hours / week) -- SRS, card creation, new grammar/phrases, pronunciation
 - Quarterly+:
   - Courses
@@ -202,7 +206,6 @@ Many listening opportunities, reading, and possible complex comprehension
 - [CBC](https://ici.radio-canada.ca/), [TV5 Monde](http://www.tv5monde.com/)
 - Le vie chat, Chi
 
-
 ## Rollout
 
 ### Spelling and Sound
@@ -241,100 +244,28 @@ Many listening opportunities, reading, and possible complex comprehension
 
 - Learn top 1000 words in language -- 1+ months
 - Coursework again
-- Media use
-- Language writing corrections, make up stories, have them corrected and flashcards for mistakes
+- Media
+- Language writing and corrections
 
- i. [Lang-8](https://lang-8.com/)
+## Evaluation
 
-e. Podcasts
-
- i. [Duolingo podcasts](https://podcast.duolingo.com/)
-
-f. Books + audio books
-
-g. Conversation groups & partners
-
- i. [italki](https://www.alllanguageresources.com/recommends/italki/ "italki")
-
- ii. Library conversation circle
-
- iii. Local church, restaurants
-
- iv. [Speechling](https://www.alllanguageresources.com/recommends/speechling/ "speechling") from [All Language Resources-French](https://www.alllanguageresources.com/french/)
-
-Evaluation
-==========
-
-Methodology
------------
+### Methodology
 
 Keep Language learning log for each practice. Review annually for insights.
 
 - **Time** and **place** of your learning session
-
 - What **resources** you used
-
 - **How** you practiced
-
 - Important **new words, phrases, or sentences**.
 
 1. Verify weekly practice is possible and consistent
-
 2. Take B2 test, then C1 test
 
-Evaluation Chart
-----------------
+### Evaluation Chart
 
-|
-
-**Objectives**
-
- |
-
-**Tactics**
-
- |
-
-**Results**
-
- |
-
-**Insights**
-
- |
-|
-
-**Listening, reading, writing to everyday levels**
-
- |
-
-Practice
-
- |  |  |
-|
-
-**Listening, Reading to everyday levels**
-
- |
-
-Media
-
- |  |  |
-|
-
-**All to Level B2**
-
- |
-
-Courses
-
- |  |  |
-|
-
-**Speaking to above novice level**
-
- |
-
-Conversation, volunteering, immersion
-
- |  |  |
+| **Objectives**                                     | **Tactics**                           | **Results** | **Insights** |
+| -------------------------------------------------- | ------------------------------------- | ----------- | ------------ |
+| **Listening, reading, writing to everyday levels** | Practice                              |             |              |
+| **Listening, Reading to everyday levels**          | Media                                 |             |              |
+| **All to Level B2**                                | Courses                               |             |              |
+| **Speaking to above novice level**                 | Conversation, volunteering, immersion |             |              |  |
