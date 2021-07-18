@@ -5,14 +5,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="basic.css" rel="stylesheet">
+    <style type="text/css">
+        /* Page specific styles */
+        .search-input {
+            width: 25em;
+            font-size: 1.4em;
+            padding: 0.4em;
+        }
+    </style>
     <title>Multisearch French for Language Learning</title>
 </head>
 
 <body>
     <main>
         <h1>Multisearch French Words</h1>
-        <p>This site will search it in Google Translate, Forvo, Linguee, and Wikitionary</p>
-        <input type="text" id="searchInputId" autofocus placeholder="Multisearch here">
+        <p>This site searches words in French to help an English speaker person build flash cards by searching:</p>
+        <ul>
+            <li>French Wiktionary: For word definitions and use</li>
+            <li>Linguee: For word sounds and definitions</li>
+            <li>Forvo: To hear pronunciations of words</li>
+            <li>Google Images: Get images to choose to build the flash card</li>
+        </ul>
+        </article>
+        <input type="text" class="search-input" id="searchInputId" autofocus placeholder="Multisearch here">
     </main>
     <script>
         var searchInput = document.getElementById("searchInputId");
