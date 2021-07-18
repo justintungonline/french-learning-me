@@ -70,55 +70,59 @@ I am at a multisport event in Canada/French speaking area (example [Canada Summe
 
 ### Issues
 
- |
-
-- Insufficient time in week. Mitigation: Complete work next week instead, delay schedule. Set aside time weekly for learning
+Insufficient time in week. Mitigation: Complete work next week instead, delay schedule. Set aside time weekly for learning
 
 ## Tactics
 
 Process goals
 
-### Reading
+### Weekly
 
-- Weekly
+- Reading
   - Media
     - Livres comme Pelletier, Yves, and Pascal Girard. Valentin. La Pastèque, 2017.
   - News
+    - [News in Slow French](https://www.alllanguageresources.com/recommends/news-in-slow-french/ "News in Slow French")   
   - Games
   - [Duolingo podcasts](https://podcast.duolingo.com/)
-- Quarterly+:
-  - Toronto Public Library:
-    - [Cantook Station Jeunesse](<https://tpl.cantookstation.com/>  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
-    - [TD Summer Reading Club](https://www.tdsummerreadingclub.ca/)  Canada's biggest, bilingual summer reading program for kids of   all ages, interests, and abilities.
-
-### Listening
-
-- Weekly:
+- Listening
   - Media
+- Writing
+- Speaking
+- All Above Areas
+  - **Practice**(2 hours / week) -- SRS, card creation, new grammar/phrases, pronunciation
 
-### Writing
+### Monthly
 
-- Monthly:
+- Reading
+- Listening
+  - Media: French movies or in French language, read summary in English first
+  - [CBC](https://ici.radio-canada.ca/), [TV5 Monde](http://www.tv5monde.com/)
+  - Le vie chat, Chi
+- Writing
   - French learning journal
   - Language writing and correction, [Lang-8](https://lang-8.com/)
-    - Make up stories, have them corrected and flashcards for mistakes
-
-### Speaking
-
-- Monthly:
+    - Make up stories, have them corrected and flashcards for mistakes 
+- Speaking
   - Library circles
-  - [Jam - Facebook](https://www.hellojam.fr/)
-- Quarterly+:
+  - [Jam - Facebook](https://www.hellojam.fr/) 
+- All Above Areas
+
+### Quarterly or More
+
+- Reading
+  - Toronto Public Library:
+    - Materials at target language and skill
+    - [Cantook Station Jeunesse](<https://tpl.cantookstation.com/>  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
+    - [TD Summer Reading Club](https://www.tdsummerreadingclub.ca/)  Canada's biggest, bilingual summer reading program for kids of   all ages, interests, and abilities.
+- Listening
+- Writing
+- Speaking
   - Volunteering: Sport games, CSG 2021
   - Immersion: local church, restaurant, bakery
   - Conversation partners - [italki](https://www.alllanguageresources.com/recommends/italki/)
-  - [Speechling](https://speechling.com/) from [All Language Resources-French](https://www.alllanguageresources.com/french/)
-
-### All Above Areas
-
-- Weekly:
-  - **Practice**(2 hours / week) -- SRS, card creation, new grammar/phrases, pronunciation
-- Quarterly+:
+  - [Speechling](https://speechling.com/) from [All Language Resources-French](https://www.alllanguageresources.com/french/) 
+- All Above Areas
   - Courses
     - [Language transfer](https://www.alllanguageresources.com/recommends/language-transfer/)
     - [Vivre en France and Travailler en France series](https://www.fun-mooc.fr/en/courses/?limit=21&offset=0&query=vivre%20france)
@@ -173,9 +177,7 @@ ANKI cards will have
 
 Can be played in different language with subtitles.
 
-#### Light
-
-Minimal language use
+#### Light language use
 
 - Assassin's Creed Odyssey
 - Titanfall 2
@@ -184,9 +186,7 @@ Minimal language use
 - Ryse
 - Call of Duty: Series (Infinite Warfare, black ops)
 
-#### Heavy
-
-Many listening opportunities, reading, and possible complex comprehension
+#### Heavy listening opportunities, reading comprehension, and stories
 
 - Dishonored 2
 - Deus Ex Mankind Divided
@@ -194,17 +194,6 @@ Many listening opportunities, reading, and possible complex comprehension
 - Dragon Age 3
 - Rise of the Tomb Raider
 - Watch gaming online videos [YouTube Gaming](https://gaming.youtube.com/), [see article for listings](https://www.fluentu.com/blog/language-learning-video-games/)
-- Library materials at target language and skill
-
-### Popular
-
-- French movies or in French language, read summary in English first
-- News in French
-  - [News in Slow French](https://www.alllanguageresources.com/recommends/news-in-slow-french/ "News in Slow French")
-- Podcasts
-- Books (optional)
-- [CBC](https://ici.radio-canada.ca/), [TV5 Monde](http://www.tv5monde.com/)
-- Le vie chat, Chi
 
 ## Rollout
 
