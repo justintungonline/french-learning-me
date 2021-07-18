@@ -79,12 +79,9 @@ Process goals
 ### Weekly
 
 - Reading
-  - Media
-    - Livres comme Pelletier, Yves, and Pascal Girard. Valentin. La Pastèque, 2017.
   - News
-    - [News in Slow French](https://www.alllanguageresources.com/recommends/news-in-slow-french/ "News in Slow French")   
+    - [News in Slow French](https://www.alllanguageresources.com/recommends/news-in-slow-french/ "News in Slow French")
   - Games
-  - [Duolingo podcasts](https://podcast.duolingo.com/)
 - Listening
   - Media
 - Writing
@@ -95,17 +92,19 @@ Process goals
 ### Monthly
 
 - Reading
+  - Media: Livres comme Pelletier, Yves, and Pascal Girard. Valentin. La Pastèque, 2017.
+  - [Duolingo podcasts](https://podcast.duolingo.com/), [Duolingo](https://www.duolingo.com/), [Duolingo Stories](https://www.duolingo.com/stories)  
 - Listening
   - Media: French movies or in French language, read summary in English first
-  - [CBC](https://ici.radio-canada.ca/), [TV5 Monde](http://www.tv5monde.com/)
+  - [CBC Radio Canada](https://ici.radio-canada.ca/), [TV5 Monde](http://www.tv5monde.com/)
   - Le vie chat, Chi
 - Writing
   - French learning journal
   - Language writing and correction, [Lang-8](https://lang-8.com/)
-    - Make up stories, have them corrected and flashcards for mistakes 
+    - Make up stories, have them corrected and flashcards for mistakes
 - Speaking
   - Library circles
-  - [Jam - Facebook](https://www.hellojam.fr/) 
+  - [Jam - Facebook](https://www.hellojam.fr/)
 - All Above Areas
 
 ### Quarterly or More
@@ -113,15 +112,15 @@ Process goals
 - Reading
   - Toronto Public Library:
     - Materials at target language and skill
-    - [Cantook Station Jeunesse](<https://tpl.cantookstation.com/>  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
-    - [TD Summer Reading Club](https://www.tdsummerreadingclub.ca/)  Canada's biggest, bilingual summer reading program for kids of   all ages, interests, and abilities.
+    - [Cantook Station Jeunesse](https://tpl.cantookstation.com)  resources?audience=youth&sort_by=issued_on_desc)   French-language ebooks for kids of all ages.
+    - [TD Summer Reading Club](https://www.clubdelecturetd.ca/fr/activites)  Canada's biggest, bilingual summer reading program for kids of all ages, interests, and abilities.
 - Listening
 - Writing
 - Speaking
   - Volunteering: Sport games, CSG 2021
   - Immersion: local church, restaurant, bakery
   - Conversation partners - [italki](https://www.alllanguageresources.com/recommends/italki/)
-  - [Speechling](https://speechling.com/) from [All Language Resources-French](https://www.alllanguageresources.com/french/) 
+  - [Speechling](https://speechling.com/) from [All Language Resources-French](https://www.alllanguageresources.com/french/)
 - All Above Areas
   - Courses
     - [Language transfer](https://www.alllanguageresources.com/recommends/language-transfer/)
