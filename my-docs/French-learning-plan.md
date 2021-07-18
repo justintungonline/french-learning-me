@@ -81,6 +81,7 @@ Process goals
 - Reading
   - News
     - [News in Slow French](https://www.alllanguageresources.com/recommends/news-in-slow-french/ "News in Slow French")
+    - [Chrome Immersive Language](https://chrome.google.com/webstore/detail/kypsis-language-immersion/ddkbjollcgaccneogdbnjadkcbocgcof)
   - Games
 - Listening
   - Media
