@@ -1,3 +1,7 @@
+# Questions for Conversations
+
+To get to know people and build relationships: [36 questions français et anglais](https://gist.github.com/justintungonline/f9a9e087b3d22288c47ea53124c125a0)
+
 ## Cercle de conversation Français-Anglais Questions / Conversation circle English-French
 
 Questions par [Centre francophone de Toronto](https://centrefranco.org/en/)
@@ -106,7 +110,3 @@ réaliser les rêves?
 19. According to you, what are the advantages and disadvantages of proceeding this way?
 20. In popular North-American culture,they say that making a wish as you blowout birthday candles makes it come true. What other 'folkloric or cultural" ways can you think of making dreams come true?
 21. What are your projects or your dreams for the Cercle de conversation?
-
-## See Also
-
-[36 questions français et anglais](https://gist.github.com/justintungonline/f9a9e087b3d22288c47ea53124c125a0)
