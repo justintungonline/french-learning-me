@@ -1,6 +1,6 @@
 # Multi Search French
 
-This [multisearch site](https://justintungonline.github.io/french-learning-me/Multisearch-French.html) searches words in French to help an English speaker build flash cards by searching:
+This [multisearch site](https://justintungonline.github.io/french-learning-ms/Multisearch-French.html) searches words in French to help an English speaker build flash cards by searching:
 - French Wiktionary: For word definitions and use
 - Linguee: For word sounds and definitions
 - Forvo: To hear pronunciations of words
